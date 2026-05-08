@@ -51,4 +51,8 @@ DAX_DEPO/
 - Some visuals or queries may require updated permissions or credentials.
 
 ## Author
-Created for Power BI learning and dashboard development.
+VISHAL YADAV
+
+
+## VIDEO LINK
+https://drive.google.com/file/d/1xIgNUHPlH48RsnialoGkAZY1_DAagZyQ/view?usp=sharing
